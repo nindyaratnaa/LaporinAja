@@ -375,3 +375,12 @@
   line-height: 16px;
   white-space: nowrap;
 }
+
+.pengaturan-akun .line {
+  position: absolute;
+  width: 910px;
+  height: 1px;
+  top: 232px;
+  left: 414px;
+  object-fit: cover;
+}
