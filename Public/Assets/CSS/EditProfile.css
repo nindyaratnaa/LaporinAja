@@ -260,7 +260,7 @@
   left: 5px;
 }
 
-.edit-profile .overlap-2 {
+.edit-profile .rectangle-0 {
   position: absolute;
   width: 276px;
   height: 37px;
@@ -271,7 +271,7 @@
   border-color: #ffffff;
 }
 
-.edit-profile .rectangle {
+.edit-profile .rectangle-1 {
   position: absolute;
   width: 276px;
   height: 37px;
@@ -282,6 +282,7 @@
   border-color: #ffffff;
 }
 
+/* ===== ERRORRR COK INI =====  */
 .edit-profile .rectangle-2 {
   position: absolute;
   width: 276px;
@@ -329,7 +330,7 @@
   left: 116px;
   border-radius: var(--size-radius-200);
   overflow: hidden;
-  background-color: var(--color-background-neutral-tertiary);
+  background-color: var(--x-2b-3537);
 }
 
 .edit-profile .button {
@@ -340,7 +341,7 @@
   margin-top: -2.00px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: var(--color-text-brand-on-brand);
+  color: var(--fffcf-5);
   font-size: 16px;
   letter-spacing: 0;
   line-height: 16px;
@@ -349,7 +350,7 @@
 
 .edit-profile .btn-simpan {
   top: 986px;
-  background-color: var(--color-background-default-default);
+  background-color: var(--fffcf-5);
   border: 1px solid;
   border-color: #ffffff;
   display: flex;
@@ -370,9 +371,9 @@
   position: relative;
   width: fit-content;
   margin-top: -1.00px;
-  font-family: "Poppins-Regular", Helvetica;
+  font-family: "Poppins-Bold", Helvetica;
   font-weight: 400;
-  color: var(--color-text-brand-on-brand-secondary);
+  color: var(--x-2b-3537);
   font-size: 16px;
   letter-spacing: 0;
   line-height: 16px;
