@@ -120,7 +120,7 @@
     height: 44px;
     top: 27px;
     left: 116px;
-    background-image: url(.Assets/Images/img/nav-logo.png);
+    background-image: url("../Images/img/nav-logo.png");
     background-size: 100% 100%;
 }
 
@@ -283,7 +283,7 @@
     height: 233px;
     top: 190px;
     left: 73px;
-    background-image: url(./public/assets/img/svg/img-trotoar-rusak.png);
+    background-image: url("../Images/img/img-trotoar-rusak.png");
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -302,7 +302,7 @@
     height: 233px;
     top: 494px;
     left: 73px;
-    background-image: url(./public/assets/img/svg/img-malam-macet.png);
+    background-image: url("../Images/img/img-malam-macet.png");
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -313,7 +313,7 @@
     height: 233px;
     top: 798px;
     left: 73px;
-    background-image: url(./public/assets/img/svg/img-sampah.png);
+    background-image: url("../Images/img/img-sampah.png");
     background-size: cover;
     background-position: 50% 50%;
 }
