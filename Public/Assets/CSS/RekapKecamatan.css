@@ -88,7 +88,7 @@
     white-space: nowrap;
 }
 
-.navbar .seting-link {
+.navbar .profile-link {
     position: absolute;
     width: 34px;
     height: 34px;
@@ -96,7 +96,7 @@
     left: 1290px;
 }
 
-.navbar .seting {
+.navbar .profile {
     width: 26px;
     height: 26px;
 }
@@ -192,17 +192,15 @@
     height: 76px;
     top: 230px;
     left: 1242px;
-    background-color: #ffffff;
-    border-radius: 38px;
-    box-shadow: 0px 4px 10px #00000040;
+    background-color: #8AA8AB;
   }
   
   .rekap-kecamatan .arrow {
     position: absolute;
-    width: 17px;
-    height: 29px;
-    top: 23px;
-    left: 32px;
+    width: 85px;
+    height: 85px;
+    top: 0px;
+    left: 0px;
   }
   
   .rekap-kecamatan .left-arrow {
@@ -211,19 +209,15 @@
     height: 76px;
     top: 230px;
     left: 13px;
-    background-color: #ffffff;
-    border-radius: 38px;
-    transform: rotate(180deg);
-    box-shadow: 0px 4px 10px #00000040;
+    background-color: #8AA8AB;
   }
   
   .rekap-kecamatan .arrow-2 {
     position: absolute;
-    width: 17px;
-    height: 29px;
-    top: 23px;
-    left: 32px;
-    transform: rotate(-180deg);
+    width: 85px;
+    height: 85px;
+    top: 0px;
+    left: 0px;
   }
   
   .rekap-kecamatan .kec-lowokwaru {
@@ -604,7 +598,7 @@
   }
 
 /* FOOTER */
-.overlap-4 {
+.overlap-10 {
     position: absolute;
     width: 1440px;
     height: 468px;
