@@ -100,3 +100,26 @@
     line-height: 16px;
     white-space: nowrap;
 }
+
+.navbar .profile-link {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    top: 32px;
+    left: 1290px;
+}
+
+.navbar .profile {
+    width: 26px;
+    height: 26px;
+}
+
+.navbar .logo-atas {
+    position: absolute;
+    width: 40px;
+    height: 44px;
+    top: 27px;
+    left: 116px;
+    background-image: url("../Images/img/nav-logo.png");
+    background-size: 100% 100%;
+}
