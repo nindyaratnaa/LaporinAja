@@ -1,11 +1,130 @@
-.edit-profile {
-  background-color: #ffffff;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
+/*===== NAVBAR =====*/
+.navbar .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 99px;
+    top: 0;
+    left: 0;
+    background-color: #2b3537;
+} 
+
+.navbar .title {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--color-text-neutral-on-neutral);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
 }
 
+.navbar .ajukan-laporan {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--size-space-200);
+    padding: var(--size-space-200);
+    position: absolute;
+    top: 33px;
+    left: 201px;
+    border-radius: var(--size-radius-200);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar .ajukan-laporan .title {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--color-text-neutral-on-neutral);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.navbar .rekap {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--size-space-200);
+    padding: var(--size-space-200);
+    position: absolute;
+    top: 33px;
+    left: 358px;
+    border-radius: var(--size-radius-200);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar .rekap .title {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--color-text-neutral-on-neutral);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.navbar .faq {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--size-space-200);
+    padding: var(--size-space-200);
+    position: absolute;
+    top: 33px;
+    left: 440px;
+    border-radius: var(--size-radius-200);
+    cursor: pointer;
+}
+
+.navbar .faq .title {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--color-text-neutral-on-neutral);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.navbar .seting-link {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    top: 32px;
+    left: 1290px;
+}
+
+.navbar .seting {
+    width: 26px;
+    height: 26px;
+}
+
+.navbar .logo-atas {
+    position: absolute;
+    width: 40px;
+    height: 44px;
+    top: 27px;
+    left: 116px;
+    background-image: url("../Images/img/nav-logo.png");
+    background-size: 100% 100%;
+} */
+
+/* ===== KONTEN UTAMA RIWAYAT LAPORAN ===== */
 .edit-profile .div {
   background-color: #ffffff;
   width: 1440px;
@@ -98,7 +217,7 @@
   height: 286px;
   top: 74px;
   left: 116px;
-  background-image: url(./public/assets/img/svg/img-mega.png);
+  background-image: url("../Images/img/img-mega.png");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -260,16 +379,16 @@
   white-space: nowrap;
 }
 
-.edit-profile .overlap-3 {
+/* .edit-profile .overlap-3 {
   position: absolute;
   width: 1440px;
   height: 99px;
   top: 0;
   left: 0;
   background-color: #2b3537;
-}
+} */
 
-.edit-profile .logo-nav {
+/* .edit-profile .logo-nav {
   position: absolute;
   width: 40px;
   height: 44px;
@@ -332,174 +451,9 @@
   height: 34px;
   top: 32px;
   left: 1290px;
-}
+} */
 
-.edit-profile .overlap-4 {
-  position: absolute;
-  width: 1440px;
-  height: 468px;
-  top: 1450px;
-  left: 0;
-  background-color: #2b3537;
-}
 
-.edit-profile .logo-footer {
-  position: absolute;
-  width: 195px;
-  height: 213px;
-  top: 54px;
-  left: 112px;
-}
-
-.edit-profile .text-wrapper-7 {
-  position: absolute;
-  height: 28px;
-  top: 288px;
-  left: 112px;
-  font-family: "Poppins-Bold", Helvetica;
-  font-weight: 700;
-  color: #ffffff;
-  font-size: 20px;
-  letter-spacing: 0;
-  line-height: 28.0px;
-  white-space: nowrap;
-}
-
-.edit-profile .frame {
-  display: inline-flex;
-  align-items: center;
-  gap: var(--size-space-400);
-  position: absolute;
-  top: 339px;
-  left: 112px;
-}
-
-.edit-profile .x-logo {
-  position: relative;
-  width: 23.98px;
-  height: 24px;
-}
-
-.edit-profile .img {
-  position: relative;
-  width: 24px;
-  height: 24px;
-}
-
-.edit-profile .rectangle-5 {
-  position: absolute;
-  width: 1440px;
-  height: 25px;
-  top: 443px;
-  left: 0;
-  background-color: #f5f5f5;
-}
-
-.edit-profile .text-link-list {
-  display: flex;
-  flex-direction: column;
-  width: 262px;
-  align-items: flex-start;
-  gap: var(--size-space-300);
-  position: absolute;
-  top: 54px;
-  left: 781px;
-}
-
-.edit-profile .text-strong-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 10px;
-  padding: 0px 0px var(--size-space-400) 0px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.edit-profile .text-strong {
-  display: flex;
-  align-items: flex-start;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.edit-profile .text-strong-2 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1.00px;
-  font-family: var(--body-strong-font-family);
-  font-weight: var(--body-strong-font-weight);
-  color: var(--color-text-neutral-on-neutral);
-  font-size: var(--body-strong-font-size);
-  letter-spacing: var(--body-strong-letter-spacing);
-  line-height: var(--body-strong-line-height);
-  white-space: nowrap;
-  font-style: var(--body-strong-font-style);
-}
-
-.edit-profile .text-link-list-item {
-  position: relative;
-  width: 89px;
-  height: 22px;
-}
-
-.edit-profile .list-item {
-  position: absolute;
-  height: 22px;
-  top: -1px;
-  left: 0;
-  font-family: var(--body-base-font-family);
-  font-weight: var(--body-base-font-weight);
-  color: var(--color-text-neutral-on-neutral);
-  font-size: var(--body-base-font-size);
-  letter-spacing: var(--body-base-letter-spacing);
-  line-height: var(--body-base-line-height);
-  white-space: nowrap;
-  font-style: var(--body-base-font-style);
-}
-
-.edit-profile .text-link-list-2 {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: var(--size-space-300);
-  position: absolute;
-  top: 54px;
-  left: 1133px;
-}
-
-.edit-profile .text-strong-3 {
-  margin-right: -29.00px;
-  position: relative;
-  width: fit-content;
-  margin-top: -1.00px;
-  font-family: var(--body-strong-font-family);
-  font-weight: var(--body-strong-font-weight);
-  color: var(--color-text-neutral-on-neutral);
-  font-size: var(--body-strong-font-size);
-  letter-spacing: var(--body-strong-letter-spacing);
-  line-height: var(--body-strong-line-height);
-  white-space: nowrap;
-  font-style: var(--body-strong-font-style);
-}
-
-.edit-profile .element-laporin-aja {
-  position: absolute;
-  height: 44px;
-  top: 314px;
-  left: 784px;
-  font-family: var(--body-base-font-family);
-  font-weight: var(--body-base-font-weight);
-  color: var(--color-text-neutral-on-neutral);
-  font-size: var(--body-base-font-size);
-  letter-spacing: var(--body-base-letter-spacing);
-  line-height: var(--body-base-line-height);
-  font-style: var(--body-base-font-style);
-}
 
 .edit-profile .overlap-5 {
   position: absolute;
@@ -659,7 +613,7 @@
   height: 233px;
   top: 190px;
   left: 73px;
-  background-image: url(./public/assets/img/svg/img-trotoar-rusak.png);
+  background-image: url("../Images/img/img-trotoar-rusak.png");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -678,7 +632,7 @@
   height: 233px;
   top: 494px;
   left: 73px;
-  background-image: url(./public/assets/img/svg/img-malam-macet.png);
+  background-image: url("../Images/img/img-malam-macet.png");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -689,7 +643,7 @@
   height: 233px;
   top: 798px;
   left: 73px;
-  background-image: url(./public/assets/img/svg/img-sampah.png);
+  background-image: url("../Images/img/img-sampah.png");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -700,4 +654,182 @@
   height: 27px;
   top: 14px;
   left: 9px;
+}
+
+
+/* ===== FOOTER  ===== */
+.overlap-4 {
+    position: absolute;
+    width: 1440px;
+    height: 468px;
+    top: 1450px;
+    left: 0;
+    background-color: #2b3537;
+}
+
+.rectangle {
+    height: 468px;
+    top: 0;
+    background-color: #2b3537;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+}
+
+.logo-footer {
+    position: absolute;
+    width: 195px;
+    height: 213px;
+    top: 54px;
+    left: 112px;
+}
+
+.text-wrapper-10 {
+    position: absolute;
+    height: 28px;
+    top: 288px;
+    left: 112px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28.0px;
+    white-space: nowrap;
+}
+
+.frame {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--size-space-400);
+    position: absolute;
+    top: 339px;
+    left: 112px;
+}
+
+.x-logo {
+    position: relative;
+    width: 23.98px;
+    height: 24px;
+}
+
+.img-2 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+
+.rectangle-2 {
+    height: 25px;
+    top: 443px;
+    background-color: var(--fffcf-5);
+    position: absolute;
+    width: 1440px;
+    left: 0;
+}
+
+.text-link-list {
+    display: flex;
+    flex-direction: column;
+    width: 262px;
+    align-items: flex-start;
+    gap: var(--size-space-300);
+    position: absolute;
+    top: 54px;
+    left: 781px;
+}
+
+.text-strong-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 0px 0px var(--size-space-400) 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.text-strong {
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.text-strong-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--body-strong-font-family);
+    font-weight: var(--body-strong-font-weight);
+    color: var(--color-text-neutral-on-neutral);
+    font-size: var(--body-strong-font-size);
+    letter-spacing: var(--body-strong-letter-spacing);
+    line-height: var(--body-strong-line-height);
+    white-space: nowrap;
+    font-style: var(--body-strong-font-style);
+}
+
+.text-link-list-item {
+    position: relative;
+    width: 89px;
+    height: 22px;
+}
+
+.list-item {
+    position: absolute;
+    height: 22px;
+    top: -1px;
+    left: 0;
+    font-family: var(--body-base-font-family);
+    font-weight: var(--body-base-font-weight);
+    color: var(--color-text-neutral-on-neutral);
+    font-size: var(--body-base-font-size);
+    letter-spacing: var(--body-base-letter-spacing);
+    line-height: var(--body-base-line-height);
+    white-space: nowrap;
+    font-style: var(--body-base-font-style);
+}
+
+.text-link-list-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-300);
+    position: absolute;
+    top: 54px;
+    left: 1133px;
+}
+
+.text-strong-3 {
+    margin-right: -29.00px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--body-strong-font-family);
+    font-weight: var(--body-strong-font-weight);
+    color: var(--color-text-neutral-on-neutral);
+    font-size: var(--body-strong-font-size);
+    letter-spacing: var(--body-strong-letter-spacing);
+    line-height: var(--body-strong-line-height);
+    white-space: nowrap;
+    font-style: var(--body-strong-font-style);
+}
+
+.element-laporin-aja {
+    position: absolute;
+    height: 44px;
+    top: 314px;
+    left: 784px;
+    font-family: var(--body-base-font-family);
+    font-weight: var(--body-base-font-weight);
+    color: var(--color-text-neutral-on-neutral);
+    font-size: var(--body-base-font-size);
+    letter-spacing: var(--body-base-letter-spacing);
+    line-height: var(--body-base-line-height);
+    font-style: var(--body-base-font-style);
 }
