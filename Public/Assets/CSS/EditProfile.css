@@ -137,7 +137,7 @@
   height: 1351px;
   top: 99px;
   left: 0;
-  background-color: #2b3537;
+  background-color: var(--hijau-tua);
 }
 
 .edit-profile .text-wrapper {
@@ -147,7 +147,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -161,7 +161,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -175,7 +175,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -189,7 +189,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -203,7 +203,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -233,7 +233,7 @@
   position: relative;
   width: 66px;
   height: 26px;
-  background-color: #ffffff;
+  background-color: var(--putih);
   border-radius: 7px;
 }
 
@@ -244,7 +244,7 @@
   left: 28px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 14px;
   letter-spacing: 0.50px;
   line-height: 16.8px;
@@ -267,7 +267,7 @@
   left: 114px;
   border-radius: 10px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 .edit-profile .rectangle-1 {
@@ -278,7 +278,7 @@
   left: 116px;
   border-radius: 10px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 /* ===== ERRORRR COK INI =====  */
@@ -290,7 +290,7 @@
   left: 116px;
   border-radius: 10px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 .edit-profile .rectangle-3 {
@@ -301,7 +301,7 @@
   left: 116px;
   border-radius: 10px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 .edit-profile .rectangle-4 {
@@ -312,13 +312,13 @@
   left: 116px;
   border-radius: 15px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 .edit-profile .btn-batalkan {
   top: 1030px;
   border: 2px solid;
-  border-color: var(--fffcf-5);
+  border-color: var(--putih);
   display: flex;
   width: 276px;
   align-items: center;
@@ -329,7 +329,7 @@
   left: 116px;
   border-radius: var(--size-radius-200);
   overflow: hidden;
-  background-color: var(--x-2b-3537);
+  background-color: var(--hijau-tua);
 }
 
 .edit-profile .button {
@@ -340,7 +340,7 @@
   margin-top: -2.00px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: var(--fffcf-5);
+  color: var(--putih);
   font-size: 16px;
   letter-spacing: 0;
   line-height: 16px;
@@ -349,9 +349,9 @@
 
 .edit-profile .btn-simpan {
   top: 986px;
-  background-color: var(--fffcf-5);
+  background-color: var(--putih);
   border: 1px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
   display: flex;
   width: 276px;
   align-items: center;
@@ -372,7 +372,7 @@
   margin-top: -1.00px;
   font-family: "Poppins-Bold", Helvetica;
   font-weight: 400;
-  color: var(--x-2b-3537);
+  color: var(--hijau-tua);
   font-size: 16px;
   letter-spacing: 0;
   line-height: 16px;
@@ -386,7 +386,7 @@
   height: 1351px;
   top: 99px;
   left: 460px;
-  background-color: #fffcf5;
+  background-color: var(--putih);
 }
 
 .edit-profile .Title {
@@ -396,7 +396,7 @@
   left: 73px;
   font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 48px;
   letter-spacing: 2.00px;
   line-height: 57.6px;
@@ -411,7 +411,7 @@
   left: 345px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 24px;
   letter-spacing: 0.50px;
   line-height: 28.8px;
@@ -425,7 +425,7 @@
   left: 345px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 24px;
   letter-spacing: 0.50px;
   line-height: 28.8px;
@@ -439,7 +439,7 @@
   left: 345px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 24px;
   letter-spacing: 0.50px;
   line-height: 28.8px;
@@ -453,7 +453,7 @@
   left: 345px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 20px;
   text-align: justify;
   letter-spacing: 0.50px;
@@ -468,7 +468,7 @@
   left: 345px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 20px;
   text-align: justify;
   letter-spacing: 0.50px;
@@ -483,7 +483,7 @@
   left: 345px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 20px;
   text-align: justify;
   letter-spacing: 0.50px;
@@ -497,7 +497,7 @@
   left: 345px;
   font-family: "Poppins-Light", Helvetica;
   font-weight: 300;
-  color: #292929;
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -511,7 +511,7 @@
   left: 345px;
   font-family: "Poppins-Light", Helvetica;
   font-weight: 300;
-  color: #292929;
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -525,7 +525,7 @@
   left: 345px;
   font-family: "Poppins-Light", Helvetica;
   font-weight: 300;
-  color: #292929;
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -589,13 +589,13 @@
     height: 468px;
     top: 1450px;
     left: 0;
-    background-color: #2b3537;
+    background-color: var(--hijau-tua);
 }
 
 .rectangle {
     height: 468px;
     top: 0;
-    background-color: #2b3537;
+    background-color: var(--hijau-tua);
     position: absolute;
     width: 1440px;
     left: 0;
@@ -616,7 +616,7 @@
     left: 112px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: #ffffff;
+    color: var(--putih);
     font-size: 20px;
     letter-spacing: 0;
     line-height: 28.0px;
@@ -647,7 +647,7 @@
 .rectangle-2 {
     height: 25px;
     top: 443px;
-    background-color: var(--fffcf-5);
+    background-color: var(--putih);
     position: absolute;
     width: 1440px;
     left: 0;
