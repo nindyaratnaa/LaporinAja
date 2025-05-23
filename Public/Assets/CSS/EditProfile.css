@@ -126,7 +126,6 @@
 
 /* ===== KONTEN UTAMA RIWAYAT LAPORAN ===== */
 .edit-profile .div {
-  background-color: #ffffff;
   width: 1440px;
   height: 1918px;
   position: relative;
@@ -380,83 +379,8 @@
   white-space: nowrap;
 }
 
-/* .edit-profile .overlap-3 {
-  position: absolute;
-  width: 1440px;
-  height: 99px;
-  top: 0;
-  left: 0;
-  background-color: #2b3537;
-} */
 
-/* .edit-profile .logo-nav {
-  position: absolute;
-  width: 40px;
-  height: 44px;
-  top: 27px;
-  left: 116px;
-}
-
-.edit-profile .ajukan-laporan {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--size-space-200);
-  padding: var(--size-space-200);
-  position: absolute;
-  top: 33px;
-  left: 201px;
-  border-radius: var(--size-radius-200);
-}
-
-.edit-profile .title {
-  position: relative;
-  width: fit-content;
-  margin-top: -1.00px;
-  font-family: "Poppins-Bold", Helvetica;
-  font-weight: 700;
-  color: var(--color-text-neutral-on-neutral);
-  font-size: 16px;
-  letter-spacing: 0;
-  line-height: 16px;
-  white-space: nowrap;
-}
-
-.edit-profile .rekap {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--size-space-200);
-  padding: var(--size-space-200);
-  position: absolute;
-  top: 33px;
-  left: 358px;
-  border-radius: var(--size-radius-200);
-}
-
-.edit-profile .faq {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--size-space-200);
-  padding: var(--size-space-200);
-  position: absolute;
-  top: 33px;
-  left: 440px;
-  border-radius: var(--size-radius-200);
-}
-
-.edit-profile .setting {
-  position: absolute;
-  width: 34px;
-  height: 34px;
-  top: 32px;
-  left: 1290px;
-} */
-
-
-
-.edit-profile .overlap-5 {
+.edit-profile .riwayat-pengaduan {
   position: absolute;
   width: 980px;
   height: 1351px;
@@ -465,7 +389,7 @@
   background-color: #fffcf5;
 }
 
-.edit-profile .text-wrapper-8 {
+.edit-profile .Title {
   position: absolute;
   height: 58px;
   top: 65px;
@@ -479,7 +403,7 @@
   white-space: nowrap;
 }
 
-.edit-profile .p {
+.edit-profile .judul-1 {
   position: absolute;
   width: 519px;
   height: 29px;
@@ -493,7 +417,7 @@
   line-height: 28.8px;
 }
 
-.edit-profile .text-wrapper-9 {
+.edit-profile .judul-3 {
   position: absolute;
   width: 519px;
   height: 29px;
@@ -507,7 +431,7 @@
   line-height: 28.8px;
 }
 
-.edit-profile .text-wrapper-10 {
+.edit-profile .judul-2 {
   position: absolute;
   width: 519px;
   height: 29px;
@@ -521,7 +445,7 @@
   line-height: 28.8px;
 }
 
-.edit-profile .text-wrapper-11 {
+.edit-profile .isi-1 {
   position: absolute;
   width: 519px;
   height: 96px;
@@ -536,7 +460,7 @@
   line-height: 24.0px;
 }
 
-.edit-profile .text-wrapper-12 {
+.edit-profile .isi-2 {
   position: absolute;
   width: 519px;
   height: 96px;
@@ -551,7 +475,7 @@
   line-height: 24.0px;
 }
 
-.edit-profile .text-wrapper-13 {
+.edit-profile .isi-3 {
   position: absolute;
   width: 519px;
   height: 96px;
@@ -566,7 +490,7 @@
   line-height: 24.0px;
 }
 
-.edit-profile .text-wrapper-14 {
+.edit-profile .tanggal-1 {
   position: absolute;
   height: 24px;
   top: 235px;
@@ -580,7 +504,7 @@
   white-space: nowrap;
 }
 
-.edit-profile .text-wrapper-15 {
+.edit-profile .tanggal-2 {
   top: 539px;
   position: absolute;
   height: 24px;
@@ -594,7 +518,7 @@
   white-space: nowrap;
 }
 
-.edit-profile .text-wrapper-16 {
+.edit-profile .tanggal-3 {
   top: 843px;
   position: absolute;
   height: 24px;
