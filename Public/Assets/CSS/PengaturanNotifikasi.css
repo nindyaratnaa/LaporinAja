@@ -124,6 +124,7 @@
     background-size: 100% 100%;
 }
 
+
 /* ===== KONTEN UTAMA ===== */
 .pengaturan {
     background-color: #fffcf5;
@@ -153,7 +154,7 @@
   left: 187px;
   font-family: "Poppins-Medium", Helvetica;
   font-weight: 500;
-  color: #ffffff;
+  color: #fffcf5;
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -167,7 +168,7 @@
   left: 117px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color:#fffcf5;
   font-size: 32px;
   letter-spacing: 0.50px;
   line-height: 38.4px;
@@ -409,7 +410,7 @@
   left: 187px;
   font-family: "Poppins-Medium", Helvetica;
   font-weight: 500;
-  color: #ffffff;
+  color: var(--x-2b-3537);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -423,7 +424,7 @@
   left: 117px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: var(--x-2b-3537);
+  color: #fffcf5;
   font-size: 32px;
   letter-spacing: 0.50px;
   line-height: 38.4px;
@@ -433,16 +434,18 @@
 
 .pengaturan .text-wrapper-10 {
   position: absolute;
-  height: 38px;
-  top: 176px;
-  left: 418px;
-  font-family: "Poppins-SemiBold", Helvetica;
-  font-weight: 600;
-  color: var(--fffcf-5);
-  font-size: 32px;
+  width: 97px;
+  height: 23px;
+  top: 269px;
+  left: 187px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #fffcf5;
+  font-size: 20px;
   letter-spacing: 0.50px;
-  line-height: 38.4px;
+  line-height: 24.0px;
   white-space: nowrap;
+  z-index: 1;
 }
 
 .pengaturan .subtract {
