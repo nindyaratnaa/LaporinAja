@@ -167,7 +167,7 @@
     height: 470px;
     top: 269px;
     left: 55px;
-    background-color: #8aa8ab;
+    background-color: #8AA8AB;
     border-radius: 24px;
   }
   
@@ -232,7 +232,7 @@
     position: relative;
     width: 189px;
     height: 245px;
-    background-color: var(--fffcf-5);
+    background-color: #fffcf5;
     border-radius: 10px;
     box-shadow: 0px 4px 13.5px #00000040;
   }
@@ -299,8 +299,11 @@
   
   .rekap-kecamatan .overlap-3 {
     position: relative;
-    width: 196px;
+    width: 190px;
     height: 245px;
+    background-color: #fffcf5;
+    border-radius: 10px;
+    box-shadow: 0px 4px 13.5px #00000040;
   }
   
   .rekap-kecamatan .rectangle {
