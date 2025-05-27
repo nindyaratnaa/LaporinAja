@@ -98,8 +98,8 @@
   width: 1440px;
   height: 2202px;
   top: 1616px;
-  left: 78px;
-  background-color: var(--fffcf-5);
+  left: 81px;
+  background-color: #fffcf5;
 }
 
 .dashbord .button {
@@ -604,13 +604,13 @@
   position: absolute;
   height: 38px;
   top: 1615px;
-  left: 217px;
-  font-family: "Poppins-Medium", Helvetica;
-  font-weight: 500;
+  left: 237px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
   color: #ffffff;
   font-size: 32px;
   text-align: center;
-  letter-spacing: 4.00px;
+  letter-spacing: 1.00px;
   line-height: 38.4px;
   white-space: nowrap;
 }
