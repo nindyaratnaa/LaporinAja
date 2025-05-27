@@ -5,7 +5,7 @@
     height: 99px;
     top: 0;
     left: 0;
-    background-color: #2b3537;
+    background-color: var(--hijau-tua);
 }
 
 .navbar .title {
@@ -14,7 +14,7 @@
     margin-top: -1.00px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: var(--color-text-neutral-on-neutral);
+    color: var(--hijau-tua);
     font-size: 16px;
     letter-spacing: 0;
     line-height: 16px;
@@ -41,7 +41,7 @@
     margin-top: -1.00px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: var(--color-text-neutral-on-neutral);
+    color: var(--putih);
     font-size: 16px;
     letter-spacing: 0;
     line-height: 16px;
@@ -68,7 +68,7 @@
     margin-top: -1.00px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: var(--color-text-neutral-on-neutral);
+    color: var(--putih);
     font-size: 16px;
     letter-spacing: 0;
     line-height: 16px;
@@ -94,7 +94,7 @@
     margin-top: -1.00px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: var(--color-text-neutral-on-neutral);
+    color: var(--putih);
     font-size: 16px;
     letter-spacing: 0;
     line-height: 16px;
@@ -107,6 +107,7 @@
     height: 34px;
     top: 32px;
     left: 1290px;
+    background-image: url("../Images/img/nav-mega.png");
 }
 
 .navbar .profile {
@@ -127,7 +128,7 @@
 
 /* ===== KONTEN UTAMA ===== */
 .pengaturan {
-    background-color: #fffcf5;
+    background-color: var(--putih);
     width: 100%;
 }
 
@@ -139,7 +140,7 @@
   left: 187px;
   font-family: "Poppins-Medium", Helvetica;
   font-weight: 500;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -154,7 +155,7 @@
   left: 187px;
   font-family: "Poppins-Medium", Helvetica;
   font-weight: 500;
-  color: #fffcf5;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -168,7 +169,7 @@
   left: 117px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color:#fffcf5;
+  color:var(--putih);
   font-size: 32px;
   letter-spacing: 0.50px;
   line-height: 38.4px;
@@ -201,7 +202,7 @@
   margin-top: -1.00px;
   font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
-  color: var(--color-text-neutral-on-neutral);
+  color: var(--putih);
   font-size: 16px;
   letter-spacing: 0;
   line-height: 16px;
@@ -248,7 +249,7 @@
   left: 418px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 32px;
   letter-spacing: 0.50px;
   line-height: 38.4px;
@@ -293,7 +294,7 @@
   justify-content: center;
   gap: 10px;
   position: relative;
-  background-color: var(--x-2b-3537);
+  background-color: var(--hijau-tua);
   border-radius: var(--size-radius-100);
   overflow: hidden;
 }
@@ -309,7 +310,7 @@
   flex: 1;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: var(--color-text-default-default);
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0;
   line-height: 28.0px;
@@ -332,7 +333,7 @@
   margin-right: -71.00px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: var(--color-text-default-default);
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0;
   line-height: 28.0px;
@@ -355,7 +356,7 @@
   margin-right: -214.00px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: var(--color-text-default-default);
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0;
   line-height: 28.0px;
@@ -380,7 +381,7 @@
   left: 418px;
   font-family: "Poppins-Medium", Helvetica;
   font-weight: 500;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -395,7 +396,7 @@
   left: 423px;
   font-family: "Poppins-Medium", Helvetica;
   font-weight: 500;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -410,7 +411,7 @@
   left: 187px;
   font-family: "Poppins-Medium", Helvetica;
   font-weight: 500;
-  color: var(--x-2b-3537);
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -424,7 +425,7 @@
   left: 117px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #fffcf5;
+  color: var(--putih);
   font-size: 32px;
   letter-spacing: 0.50px;
   line-height: 38.4px;
@@ -440,7 +441,7 @@
   left: 187px;
   font-family: "Poppins-Medium", Helvetica;
   font-weight: 500;
-  color: #fffcf5;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -455,12 +456,6 @@
   top: 81px;
   left: 0;
 }
-
-/* .pengaturan .overlap-wrapper {
-  background-color: var(--fffcf-5);
-  width: 1440px;
-  height: 960px;
-} */
 
 .pengaturan .overlap {
   position: relative;
@@ -481,5 +476,5 @@
   height: 99px;
   top: 0;
   left: 0;
-  background-color: var(--x-2b-3537);
+  background-color: var(--hijau-tua);
 }

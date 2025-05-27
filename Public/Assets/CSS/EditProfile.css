@@ -5,7 +5,7 @@
     height: 99px;
     top: 0;
     left: 0;
-    background-color: #2b3537;
+    background-color: var(--hijau-tua);
 } 
 
 .navbar .title {
@@ -14,7 +14,7 @@
     margin-top: -1.00px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: var(--color-text-neutral-on-neutral);
+    color: var(--putih);
     font-size: 16px;
     letter-spacing: 0;
     line-height: 16px;
@@ -41,7 +41,7 @@
     margin-top: -1.00px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: var(--color-text-neutral-on-neutral);
+    color: var(--putih);
     font-size: 16px;
     letter-spacing: 0;
     line-height: 16px;
@@ -68,7 +68,7 @@
     margin-top: -1.00px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: var(--color-text-neutral-on-neutral);
+    color: var(--putih);
     font-size: 16px;
     letter-spacing: 0;
     line-height: 16px;
@@ -94,7 +94,7 @@
     margin-top: -1.00px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: var(--color-text-neutral-on-neutral);
+    color: var(--putih);
     font-size: 16px;
     letter-spacing: 0;
     line-height: 16px;
@@ -126,7 +126,6 @@
 
 /* ===== KONTEN UTAMA RIWAYAT LAPORAN ===== */
 .edit-profile .div {
-  background-color: #ffffff;
   width: 1440px;
   height: 1918px;
   position: relative;
@@ -138,7 +137,7 @@
   height: 1351px;
   top: 99px;
   left: 0;
-  background-color: #2b3537;
+  background-color: var(--hijau-tua);
 }
 
 .edit-profile .text-wrapper {
@@ -148,7 +147,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -162,7 +161,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -176,7 +175,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -190,7 +189,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -204,7 +203,7 @@
   left: 116px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--putih);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -234,7 +233,7 @@
   position: relative;
   width: 66px;
   height: 26px;
-  background-color: #ffffff;
+  background-color: var(--putih);
   border-radius: 7px;
 }
 
@@ -245,7 +244,7 @@
   left: 28px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 14px;
   letter-spacing: 0.50px;
   line-height: 16.8px;
@@ -268,7 +267,7 @@
   left: 114px;
   border-radius: 10px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 .edit-profile .rectangle-1 {
@@ -279,7 +278,7 @@
   left: 116px;
   border-radius: 10px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 /* ===== ERRORRR COK INI =====  */
@@ -291,7 +290,7 @@
   left: 116px;
   border-radius: 10px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 .edit-profile .rectangle-3 {
@@ -302,7 +301,7 @@
   left: 116px;
   border-radius: 10px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 .edit-profile .rectangle-4 {
@@ -313,13 +312,13 @@
   left: 116px;
   border-radius: 15px;
   border: 2px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
 }
 
 .edit-profile .btn-batalkan {
   top: 1030px;
   border: 2px solid;
-  border-color: var(--fffcf-5);
+  border-color: var(--putih);
   display: flex;
   width: 276px;
   align-items: center;
@@ -330,7 +329,7 @@
   left: 116px;
   border-radius: var(--size-radius-200);
   overflow: hidden;
-  background-color: var(--x-2b-3537);
+  background-color: var(--hijau-tua);
 }
 
 .edit-profile .button {
@@ -341,7 +340,7 @@
   margin-top: -2.00px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: var(--fffcf-5);
+  color: var(--putih);
   font-size: 16px;
   letter-spacing: 0;
   line-height: 16px;
@@ -350,9 +349,9 @@
 
 .edit-profile .btn-simpan {
   top: 986px;
-  background-color: var(--fffcf-5);
+  background-color: var(--putih);
   border: 1px solid;
-  border-color: #ffffff;
+  border-color: var(--putih);
   display: flex;
   width: 276px;
   align-items: center;
@@ -373,113 +372,38 @@
   margin-top: -1.00px;
   font-family: "Poppins-Bold", Helvetica;
   font-weight: 400;
-  color: var(--x-2b-3537);
+  color: var(--hijau-tua);
   font-size: 16px;
   letter-spacing: 0;
   line-height: 16px;
   white-space: nowrap;
 }
 
-/* .edit-profile .overlap-3 {
-  position: absolute;
-  width: 1440px;
-  height: 99px;
-  top: 0;
-  left: 0;
-  background-color: #2b3537;
-} */
 
-/* .edit-profile .logo-nav {
-  position: absolute;
-  width: 40px;
-  height: 44px;
-  top: 27px;
-  left: 116px;
-}
-
-.edit-profile .ajukan-laporan {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--size-space-200);
-  padding: var(--size-space-200);
-  position: absolute;
-  top: 33px;
-  left: 201px;
-  border-radius: var(--size-radius-200);
-}
-
-.edit-profile .title {
-  position: relative;
-  width: fit-content;
-  margin-top: -1.00px;
-  font-family: "Poppins-Bold", Helvetica;
-  font-weight: 700;
-  color: var(--color-text-neutral-on-neutral);
-  font-size: 16px;
-  letter-spacing: 0;
-  line-height: 16px;
-  white-space: nowrap;
-}
-
-.edit-profile .rekap {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--size-space-200);
-  padding: var(--size-space-200);
-  position: absolute;
-  top: 33px;
-  left: 358px;
-  border-radius: var(--size-radius-200);
-}
-
-.edit-profile .faq {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--size-space-200);
-  padding: var(--size-space-200);
-  position: absolute;
-  top: 33px;
-  left: 440px;
-  border-radius: var(--size-radius-200);
-}
-
-.edit-profile .setting {
-  position: absolute;
-  width: 34px;
-  height: 34px;
-  top: 32px;
-  left: 1290px;
-} */
-
-
-
-.edit-profile .overlap-5 {
+.edit-profile .riwayat-pengaduan {
   position: absolute;
   width: 980px;
   height: 1351px;
   top: 99px;
   left: 460px;
-  background-color: #fffcf5;
+  background-color: var(--putih);
 }
 
-.edit-profile .text-wrapper-8 {
+.edit-profile .Title {
   position: absolute;
   height: 58px;
   top: 65px;
   left: 73px;
   font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 48px;
   letter-spacing: 2.00px;
   line-height: 57.6px;
   white-space: nowrap;
 }
 
-.edit-profile .p {
+.edit-profile .judul-1 {
   position: absolute;
   width: 519px;
   height: 29px;
@@ -487,13 +411,13 @@
   left: 345px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 24px;
   letter-spacing: 0.50px;
   line-height: 28.8px;
 }
 
-.edit-profile .text-wrapper-9 {
+.edit-profile .judul-3 {
   position: absolute;
   width: 519px;
   height: 29px;
@@ -501,13 +425,13 @@
   left: 345px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 24px;
   letter-spacing: 0.50px;
   line-height: 28.8px;
 }
 
-.edit-profile .text-wrapper-10 {
+.edit-profile .judul-2 {
   position: absolute;
   width: 519px;
   height: 29px;
@@ -515,13 +439,13 @@
   left: 345px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 24px;
   letter-spacing: 0.50px;
   line-height: 28.8px;
 }
 
-.edit-profile .text-wrapper-11 {
+.edit-profile .isi-1 {
   position: absolute;
   width: 519px;
   height: 96px;
@@ -529,14 +453,14 @@
   left: 345px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 20px;
   text-align: justify;
   letter-spacing: 0.50px;
   line-height: 24.0px;
 }
 
-.edit-profile .text-wrapper-12 {
+.edit-profile .isi-2 {
   position: absolute;
   width: 519px;
   height: 96px;
@@ -544,14 +468,14 @@
   left: 345px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 20px;
   text-align: justify;
   letter-spacing: 0.50px;
   line-height: 24.0px;
 }
 
-.edit-profile .text-wrapper-13 {
+.edit-profile .isi-3 {
   position: absolute;
   width: 519px;
   height: 96px;
@@ -559,49 +483,49 @@
   left: 345px;
   font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: var(--hijau-tua);
   font-size: 20px;
   text-align: justify;
   letter-spacing: 0.50px;
   line-height: 24.0px;
 }
 
-.edit-profile .text-wrapper-14 {
+.edit-profile .tanggal-1 {
   position: absolute;
   height: 24px;
   top: 235px;
   left: 345px;
   font-family: "Poppins-Light", Helvetica;
   font-weight: 300;
-  color: #292929;
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
   white-space: nowrap;
 }
 
-.edit-profile .text-wrapper-15 {
+.edit-profile .tanggal-2 {
   top: 539px;
   position: absolute;
   height: 24px;
   left: 345px;
   font-family: "Poppins-Light", Helvetica;
   font-weight: 300;
-  color: #292929;
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
   white-space: nowrap;
 }
 
-.edit-profile .text-wrapper-16 {
+.edit-profile .tanggal-3 {
   top: 843px;
   position: absolute;
   height: 24px;
   left: 345px;
   font-family: "Poppins-Light", Helvetica;
   font-weight: 300;
-  color: #292929;
+  color: var(--hijau-tua);
   font-size: 20px;
   letter-spacing: 0.50px;
   line-height: 24.0px;
@@ -665,13 +589,13 @@
     height: 468px;
     top: 1450px;
     left: 0;
-    background-color: #2b3537;
+    background-color: var(--hijau-tua);
 }
 
 .rectangle {
     height: 468px;
     top: 0;
-    background-color: #2b3537;
+    background-color: var(--hijau-tua);
     position: absolute;
     width: 1440px;
     left: 0;
@@ -692,7 +616,7 @@
     left: 112px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: #ffffff;
+    color: var(--putih);
     font-size: 20px;
     letter-spacing: 0;
     line-height: 28.0px;
@@ -723,7 +647,7 @@
 .rectangle-2 {
     height: 25px;
     top: 443px;
-    background-color: var(--fffcf-5);
+    background-color: var(--putih);
     position: absolute;
     width: 1440px;
     left: 0;
