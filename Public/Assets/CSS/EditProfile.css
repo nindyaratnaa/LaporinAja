@@ -281,7 +281,7 @@
   border-color: var(--putih);
 }
 
-/* ===== ERRORRR COK INI =====  */
+/* ===== ERRORRR COK INI ===== 798  */
 .edit-profile .rectangle-2 {
   position: absolute;
   width: 276px;
@@ -647,7 +647,7 @@
 .rectangle-2 {
     height: 25px;
     top: 443px;
-    background-color: var(--putih);
+    /* background-color: var(--putih); */
     position: absolute;
     width: 1440px;
     left: 0;

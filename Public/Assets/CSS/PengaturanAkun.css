@@ -126,9 +126,10 @@
 }
 
 /* ===== KONTEN UTAMA  ===== */
-.pengaturan-akun {
+.pengaturan-akun .overlap-group-wrapper {
   background-color: var(--putih);
   width: 1440px;
+  height: 960px;
 }
 
 .pengaturan-akun .text-wrapper {
