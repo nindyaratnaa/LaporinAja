@@ -314,7 +314,7 @@
 .dashbord .text-wrapper-9 {
   position: absolute;
   width: 286px;
-  height: 32px;
+  height: 58px;
   top: 263px;
   left: 29px;
   font-family: "Poppins-Medium", Helvetica;
@@ -323,7 +323,7 @@
   font-size: 24px;
   letter-spacing: -0.48px;
   line-height: 28.8px;
-  white-space: nowrap;
+  /* white-space: nowrap; */
 }
 
 .dashbord .jalan-rusak-kanan {
