@@ -23,7 +23,7 @@
     width: 881px;
     height: 554px;
     left: 0;
-    background-color: var(--fffcf-5);
+    background-color: var(--putih);
     border-radius: 78px;
     box-shadow: 0px 4px 59.1px #00000080;
     position: absolute;
@@ -34,7 +34,7 @@
     width: 424px;
     height: 556px;
     left: 457px;
-    background-color: var(--x-2b-3537);
+    background-color: var(--hijau-tua);
     border-radius: 150px 78px 78px 150px;
     position: absolute;
     top: 0;
@@ -48,7 +48,7 @@
     left: 491px;
     font-family: "Poppins-Regular", Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: var(--putih);
     font-size: 16px;
     text-align: center;
     letter-spacing: 0;
@@ -70,7 +70,7 @@
     left: 0;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: #f5f5f5;
+    color: var(--putih);
     font-size: 40px;
     text-align: center;
     letter-spacing: -0.80px;
@@ -126,7 +126,7 @@
     left: 71px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: #1e1e1e;
+    color: var(--hijau-tua);
     font-size: 40px;
     letter-spacing: -0.80px;
     line-height: 48.0px;
@@ -149,7 +149,7 @@
     left: 10px;
     font-family: "Poppins-Medium", Helvetica;
     font-weight: 500;
-    color: #767676;
+    color: var(--hijau-muda);
     font-size: 16px;
     letter-spacing: -0.32px;
     line-height: 19.2px;
@@ -164,7 +164,7 @@
     left: 0;
     border-radius: 10px;
     border: 2px solid;
-    border-color: #000000;
+    border-color: var(--hijau-tua);
   }
   
   .masuk .button-2 {
@@ -179,11 +179,11 @@
     position: absolute;
     top: 264px;
     left: 63px;
-    background-color: var(--x-2b-3537);
+    background-color: var(--hijau-tua);
     border-radius: var(--size-radius-200);
     overflow: hidden;
     border: 1px solid;
-    border-color: var(--color-border-brand-default);
+    border-color: var(--hijau-tua);
   }
   
   .masuk .overlap-group-wrapper {
@@ -242,7 +242,7 @@
     left: 32px;
     font-family: "Poppins-SemiBold", Helvetica;
     font-weight: 600;
-    color: #1e1e1e;
+    color: var(--hijau-tua);
     font-size: 16px;
     letter-spacing: -0.32px;
     line-height: 19.2px;
