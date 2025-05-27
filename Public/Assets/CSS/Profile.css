@@ -5,7 +5,7 @@
     height: 99px;
     top: 0;
     left: 0;
-    background-color: #2b3537;
+    background-color: var(--hijau-tua);
 }
 
 .navbar .title {
@@ -131,7 +131,7 @@
     height: 1351px;
     top: 99px;
     left: 460px;
-    background-color: #fffcf5;
+    background-color: var(--putih);
 }
 
 .profile .text-wrapper {
@@ -141,7 +141,7 @@
     left: 73px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: #000000;
+    color: var(--hijau-tua);
     font-size: 48px;
     letter-spacing: 2.00px;
     line-height: 57.6px;
@@ -155,7 +155,7 @@
     left: 345px;
     font-family: "Poppins-SemiBold", Helvetica;
     font-weight: 600;
-    color: #000000;
+    color: var(--hijau-tua);
     font-size: 24px;
     letter-spacing: 0.50px;
     line-height: 28.8px;
@@ -169,7 +169,7 @@
     left: 345px;
     font-family: "Poppins-SemiBold", Helvetica;
     font-weight: 600;
-    color: #000000;
+    color: var(--hijau-tua);
     font-size: 24px;
     letter-spacing: 0.50px;
     line-height: 28.8px;
@@ -183,7 +183,7 @@
     left: 345px;
     font-family: "Poppins-SemiBold", Helvetica;
     font-weight: 600;
-    color: #000000;
+    color: var(--hijau-tua);
     font-size: 24px;
     letter-spacing: 0.50px;
     line-height: 28.8px;
@@ -198,7 +198,7 @@
     left: 343px;
     font-family: "Poppins-Regular", Helvetica;
     font-weight: 400;
-    color: #000000;
+    color: var(--hijau-tua);
     font-size: 20px;
     text-align: justify;
     letter-spacing: 0.50px;
@@ -213,7 +213,7 @@
     left: 343px;
     font-family: "Poppins-Regular", Helvetica;
     font-weight: 400;
-    color: #000000;
+    color: var(--hijau-tua);
     font-size: 20px;
     text-align: justify;
     letter-spacing: 0.50px;
@@ -228,7 +228,7 @@
     left: 345px;
     font-family: "Poppins-Regular", Helvetica;
     font-weight: 400;
-    color: #000000;
+    color: var(--hijau-tua);
     font-size: 20px;
     text-align: justify;
     letter-spacing: 0.50px;
@@ -242,7 +242,7 @@
     left: 345px;
     font-family: "Poppins-Light", Helvetica;
     font-weight: 300;
-    color: #292929;
+    color: var(--hijau-tua);
     font-size: 20px;
     letter-spacing: 0.50px;
     line-height: 24.0px;
@@ -256,7 +256,7 @@
     left: 345px;
     font-family: "Poppins-Light", Helvetica;
     font-weight: 300;
-    color: #292929;
+    color: var(--hijau-tua);
     font-size: 20px;
     letter-spacing: 0.50px;
     line-height: 24.0px;
@@ -270,7 +270,7 @@
     left: 345px;
     font-family: "Poppins-Light", Helvetica;
     font-weight: 300;
-    color: #292929;
+    color: var(--hijau-tua);
     font-size: 20px;
     letter-spacing: 0.50px;
     line-height: 24.0px;
@@ -333,7 +333,7 @@
     height: 1351px;
     top: 99px;
     left: 0;
-    background-color: var(--x-2b-3537);
+    background-color: var(--hijau-tua);
 }
 
 .profile .text-wrapper-11 {
@@ -343,7 +343,7 @@
     left: 112px;
     font-family: "Poppins-SemiBold", Helvetica;
     font-weight: 600;
-    color: #ffffff;
+    color: var(--putih);
     font-size: 20px;
     letter-spacing: 0.50px;
     line-height: 24.0px;
@@ -358,7 +358,7 @@
     left: 112px;
     font-family: "Poppins-Regular", Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: var(--putih);
     font-size: 20px;
     text-align: justify;
     letter-spacing: 0.50px;
@@ -372,7 +372,7 @@
     left: 138px;
     font-family: "Poppins-Regular", Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: var(--putih);
     font-size: 16px;
     text-align: justify;
     letter-spacing: 0.50px;
@@ -387,7 +387,7 @@
     left: 138px;
     font-family: "Poppins-Regular", Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: var(--putih);
     font-size: 16px;
     text-align: justify;
     letter-spacing: 0.50px;
@@ -402,7 +402,7 @@
     left: 138px;
     font-family: "Poppins-Regular", Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: var(--putih);
     font-size: 16px;
     text-align: justify;
     letter-spacing: 0.50px;
@@ -417,7 +417,7 @@
     left: 112px;
     font-family: "Poppins-Light", Helvetica;
     font-weight: 300;
-    color: #d9d9d9;
+    color: var(--putih);
     font-size: 20px;
     letter-spacing: 0.50px;
     line-height: 24.0px;
@@ -453,12 +453,12 @@
     gap: var(--size-space-200);
     padding: var(--size-space-200);
     position: relative;
-    background-color: var(--fffcf-5);
+    background-color: var(--putih);
     border-radius: var(--size-radius-200);
     font-family: "Poppins-Bold", Helvetica;
     overflow: hidden;
     border: 1px solid;
-    border-color: var(--fffcf-5);
+    border-color: var(--putih);
 }
 
 .profile .group {
@@ -493,13 +493,13 @@
     height: 468px;
     top: 1450px;
     left: 0;
-    background-color: #2b3537;
+    background-color: var(--hijau-tua);
 }
 
 .rectangle {
     height: 468px;
     top: 0;
-    background-color: #2b3537;
+    background-color: var(--hijau-tua);
     position: absolute;
     width: 1440px;
     left: 0;
@@ -520,7 +520,7 @@
     left: 112px;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
-    color: #ffffff;
+    color: var(--putih);
     font-size: 20px;
     letter-spacing: 0;
     line-height: 28.0px;
@@ -551,7 +551,7 @@
 .rectangle-2 {
     height: 25px;
     top: 443px;
-    background-color: var(--fffcf-5);
+    background-color: var(--putih);
     position: absolute;
     width: 1440px;
     left: 0;
